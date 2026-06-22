@@ -9,8 +9,8 @@
 ## 🚀 About Me  
 - **Cloud Data Architect** | Databricks Lakehouse Architectures  
 - 15+ years in **Data Engineering & Architecture**  
-- Experience across **NCR Atleos · Cognizant · Wipro · Qatar Airways**  
-- 📍 Based in Doha, Qatar | Open to relocation (India · Europe · UK)  
+- Experience across **NCR Atleos · Cognizant · Wipro ·**  
+- 📍 Based in Doha, Qatar | Open to relocation (· UAE · India · Europe · UK)  
 
 ---
 
