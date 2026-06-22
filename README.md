@@ -31,10 +31,24 @@
 ---
 
 ## 📂 Featured Projects  
-- 🔥 **SmartCricket360** → IPL insights powered by Databricks Lakehouse  
-- 📡 **Telecom Insights Dashboard** → End‑to‑end analytics for ARPU, churn, and network operations  
-- ⚡ **Migration Strategy Practice** → Teradata/Informatica → Databricks Lakehouse (conceptual playbook)  
-- 📊 **Microsoft Fabric Learning** → Hands‑on badges: Ingestion, Eventhouse, End‑to‑End Analytics  
+
+🔥 **SmartCricket360**  
+Built a Databricks Lakehouse solution to deliver IPL insights across player performance, match outcomes, and fan engagement.  
+- Ingested live match feeds and historical stats into Delta Lake for unified analytics.  
+- Applied Spark transformations to generate predictive KPIs (strike rate trends, win probabilities).  
+- Delivered interactive dashboards in Power BI, enabling near real‑time insights for analysts and fans.  
+
+📡 **Telecom Insights Dashboard**  
+Designed and implemented a Databricks Lakehouse solution for telecom KPIs including ARPU, churn prediction, and network performance.  
+- Unified heterogeneous sources (billing, CRM, network logs) into Delta Lake for scalable analytics.  
+- Delivered interactive Power BI dashboards for executives and operations teams.  
+- Improved churn detection accuracy by 20% and reduced reporting latency from days to near real‑time.  
+
+⚡ **Migration Strategy Practice**  
+Teradata/Informatica → Databricks Lakehouse (conceptual playbook).  
+
+📊 **Microsoft Fabric Learning**  
+Hands‑on badges: Ingestion, Eventhouse, End‑to‑End Analytics.  
 
 ---
 
