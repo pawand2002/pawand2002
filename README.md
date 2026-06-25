@@ -29,6 +29,13 @@
 - Building **consulting presence** for Principal Consultant/Architect roles  
 
 ---
+## 📂 Featured Projects Overview  
+
+I apply modern cloud data platforms to solve diverse, high‑impact problems across industries.  
+From **sports analytics** with pure Databricks Lakehouse (SmartCricket360 delivering IPL insights),  
+to **telecom transformation** with hybrid Azure + Databricks architectures (Telecom Insights improving ARPU and churn detection),  
+to **migration strategy practice** modernizing legacy Teradata/Informatica systems, and **continuous learning** through Microsoft Fabric badges,  
+my portfolio demonstrates both real implementations and ongoing mastery of cloud data engineering.
 
 ## 📂 Featured Projects  
 
@@ -39,16 +46,18 @@ Built a Databricks Lakehouse solution to deliver IPL insights across player perf
 - Delivered interactive dashboards in Power BI, enabling near real‑time insights for analysts and fans.  
 
 📡 **Telecom Insights Dashboard**  
-Designed and implemented a Databricks Lakehouse solution for telecom KPIs including ARPU, churn prediction, and network performance.  
-- Unified heterogeneous sources (billing, CRM, network logs) into Delta Lake for scalable analytics.  
+Designed and implemented a hybrid Azure + Databricks Lakehouse solution for telecom KPIs including ARPU, churn prediction, and network performance.  
+- Ingested heterogeneous sources (billing, CRM, network logs) via Azure Data Factory and Event Hub.  
+- Unified data in Delta Lake on Databricks, with governance through Unity Catalog.  
 - Delivered interactive Power BI dashboards for executives and operations teams.  
-- Improved churn detection accuracy by 20% and reduced reporting latency from days to near real‑time.  
+- Improved churn detection accuracy by 20% and reduced reporting latency from days to near real‑time.    
 
 ⚡ **Migration Strategy Practice**  
 Teradata/Informatica → Databricks Lakehouse (conceptual playbook).  
 
 📊 **Microsoft Fabric Learning**  
 Hands‑on badges: Ingestion, Eventhouse, End‑to‑End Analytics.  
+
 
 ---
 
